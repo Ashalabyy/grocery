@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091769359529",
+    "project_id": "grocieapp",
+    "storage_bucket": "grocieapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091769359529:android:90d4ba5425cfcd787d5db8",
+        "android_client_info": {
+          "package_name": "com.example.auth_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091769359529-ega0r6td2b3calln16c2pa8ekln2f0vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAosLjctQgrCnn4xKlWqwprHnGaer02PTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091769359529-ega0r6td2b3calln16c2pa8ekln2f0vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
